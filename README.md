@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AatmajP/LeetCode/tree/master/0031-next-permutation) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AatmajP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AatmajP/LeetCode/tree/master/0735-asteroid-collision) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AatmajP/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/AatmajP/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/AatmajP/LeetCode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AatmajP/LeetCode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AatmajP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
