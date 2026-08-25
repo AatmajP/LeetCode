@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AatmajP/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AatmajP/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
