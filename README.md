@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AatmajP/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AatmajP/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AatmajP/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AatmajP/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AatmajP/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AatmajP/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/AatmajP/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AatmajP/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AatmajP/LeetCode/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AatmajP/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
