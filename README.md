@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AatmajP/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AatmajP/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AatmajP/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AatmajP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AatmajP/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AatmajP/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/AatmajP/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AatmajP/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AatmajP/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AatmajP/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AatmajP/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AatmajP/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AatmajP/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
