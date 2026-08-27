@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AatmajP/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AatmajP/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AatmajP/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AatmajP/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AatmajP/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/AatmajP/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AatmajP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
