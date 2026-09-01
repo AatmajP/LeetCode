@@ -2,8 +2,6 @@ class Solution {
     public int singleNumber(int[] nums) {
 
         int[] count = new int[32];
-
-        // Count 1s at every bit position
         for (int num : nums) {
 
             for (int j = 0; j < 32; j++) {
@@ -14,7 +12,6 @@ class Solution {
             }
         }
 
-        // Build the answer
         int result = 0;
 
         for (int j = 0; j < 32; j++) {
