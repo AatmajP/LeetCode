@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/AatmajP/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AatmajP/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AatmajP/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0556-next-greater-element-iii](https://github.com/AatmajP/LeetCode/tree/master/0556-next-greater-element-iii) |
 ## Recursion
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AatmajP/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AatmajP/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AatmajP/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AatmajP/LeetCode/tree/master/0394-decode-string) |
 ## Array
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AatmajP/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AatmajP/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AatmajP/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AatmajP/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/AatmajP/LeetCode/tree/master/0461-hamming-distance) |
 ## Binary Search Tree
