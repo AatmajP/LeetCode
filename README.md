@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AatmajP/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AatmajP/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/AatmajP/LeetCode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AatmajP/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/AatmajP/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AatmajP/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AatmajP/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AatmajP/LeetCode/tree/master/0190-reverse-bits) |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AatmajP/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AatmajP/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
