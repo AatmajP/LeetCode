@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AatmajP/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AatmajP/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/AatmajP/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AatmajP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/AatmajP/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AatmajP/LeetCode/tree/master/0137-single-number-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AatmajP/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AatmajP/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AatmajP/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/AatmajP/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/AatmajP/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AatmajP/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/AatmajP/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
