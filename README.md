@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AatmajP/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0260-single-number-iii](https://github.com/AatmajP/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0393-utf-8-validation](https://github.com/AatmajP/LeetCode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AatmajP/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AatmajP/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AatmajP/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/AatmajP/LeetCode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/AatmajP/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AatmajP/LeetCode/tree/master/0476-number-complement) |
