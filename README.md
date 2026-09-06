@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AatmajP/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/AatmajP/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/AatmajP/LeetCode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0525-contiguous-array](https://github.com/AatmajP/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AatmajP/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AatmajP/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/AatmajP/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AatmajP/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AatmajP/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AatmajP/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AatmajP/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -413,5 +418,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
