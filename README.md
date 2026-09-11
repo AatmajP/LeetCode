@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AatmajP/LeetCode/tree/master/1046-last-stone-weight) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AatmajP/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AatmajP/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AatmajP/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AatmajP/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AatmajP/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AatmajP/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/AatmajP/LeetCode/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AatmajP/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AatmajP/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -485,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AatmajP/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AatmajP/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AatmajP/LeetCode/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -525,4 +532,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AatmajP/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
