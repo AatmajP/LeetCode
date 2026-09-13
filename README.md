@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/AatmajP/LeetCode/tree/master/0641-design-circular-deque) |
 | [0733-flood-fill](https://github.com/AatmajP/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AatmajP/LeetCode/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AatmajP/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AatmajP/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/AatmajP/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AatmajP/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AatmajP/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/AatmajP/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/AatmajP/LeetCode/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AatmajP/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AatmajP/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AatmajP/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AatmajP/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AatmajP/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AatmajP/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -378,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AatmajP/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AatmajP/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AatmajP/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -493,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AatmajP/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AatmajP/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AatmajP/LeetCode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -536,6 +543,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AatmajP/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
