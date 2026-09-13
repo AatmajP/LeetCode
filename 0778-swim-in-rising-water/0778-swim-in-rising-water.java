@@ -3,7 +3,7 @@ class Solution {
         int row=grid.length;
         int col=grid[0].length;
         int[][] dist=new int[row][col];
-        for(inti=0;i<row;i++){
+        for(int i=0;i<row;i++){
             Arrays.fill(dist[i],Integer.MAX_VALUE);
         }
         dist[0][0]=grid[0][0];
