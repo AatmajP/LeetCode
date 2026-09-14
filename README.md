@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AatmajP/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AatmajP/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AatmajP/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AatmajP/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AatmajP/LeetCode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -558,4 +561,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
