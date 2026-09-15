@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AatmajP/LeetCode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AatmajP/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/AatmajP/LeetCode/tree/master/1046-last-stone-weight) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/AatmajP/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/AatmajP/LeetCode/tree/master/0394-decode-string) |
 | [0556-next-greater-element-iii](https://github.com/AatmajP/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Trie
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AatmajP/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AatmajP/LeetCode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AatmajP/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AatmajP/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
