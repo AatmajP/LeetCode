@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/AatmajP/LeetCode/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/AatmajP/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/AatmajP/LeetCode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AatmajP/LeetCode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AatmajP/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/AatmajP/LeetCode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AatmajP/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/AatmajP/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/AatmajP/LeetCode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AatmajP/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -591,8 +595,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/AatmajP/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/AatmajP/LeetCode/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/AatmajP/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/AatmajP/LeetCode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
