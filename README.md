@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AatmajP/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AatmajP/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AatmajP/LeetCode/tree/master/0394-decode-string) |
 | [0556-next-greater-element-iii](https://github.com/AatmajP/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/AatmajP/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
 | ------- |
@@ -407,10 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/AatmajP/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/AatmajP/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AatmajP/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AatmajP/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AatmajP/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -549,11 +555,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AatmajP/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AatmajP/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AatmajP/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AatmajP/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AatmajP/LeetCode/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
