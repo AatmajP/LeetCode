@@ -630,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/AatmajP/LeetCode/tree/master/0399-evaluate-division) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AatmajP/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
