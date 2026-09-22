@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
 
-        // 1. Build graph
+     /*   // 1. Build graph
         ArrayList<ArrayList<int[]>> graph = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
@@ -80,6 +80,57 @@ class Solution {
             return -1;
         }
 
-        return answer;
+        return answer; */
+
+
+
+
+
+
+
+
+
+     // BELLMAN FORD METHOD
+int INF = 1000000;
+
+// Sabhi cities ko initially unreachable maan rahe hain
+int[] dist = new int[n];
+
+for (int i = 0; i < n; i++) {
+    dist[i] = INF;
+}
+
+// Source city se source city tak cost 0 hoti hai
+dist[src] = 0;
+
+// Maximum flights = k + 1
+for (int i = 0; i < k + 1; i++) {
+
+    // Previous iteration ki values ko copy kar rahe hain
+    // Ek iteration mein sirf ek additional flight allow hogi
+    int[] temp = dist.clone();
+
+    for (int[] fi : flights) {
+
+        int u = fi[0];
+        int v = fi[1];
+        int wei = fi[2];
+
+        // dist se read karo, temp mein update karo
+        if (dist[u] != INF && dist[u] + wei < temp[v]) {
+            temp[v] = dist[u] + wei;
+        }
+    }
+
+    // Current iteration ka result next iteration ke liye save karo
+    dist = temp;
+}
+
+// Destination unreachable hai toh -1
+if (dist[dst] == INF) {
+    return -1;
+}
+
+return dist[dst];
     }
 }
