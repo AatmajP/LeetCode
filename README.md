@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/AatmajP/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AatmajP/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AatmajP/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1824-minimum-sideway-jumps](https://github.com/AatmajP/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AatmajP/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AatmajP/LeetCode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
+| [1824-minimum-sideway-jumps](https://github.com/AatmajP/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 ## String
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AatmajP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/AatmajP/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AatmajP/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1824-minimum-sideway-jumps](https://github.com/AatmajP/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/AatmajP/LeetCode/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
