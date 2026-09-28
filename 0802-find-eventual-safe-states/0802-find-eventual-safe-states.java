@@ -1,4 +1,4 @@
-import java.util.*;
+/*import java.util.*;
 
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
@@ -57,4 +57,34 @@ class Solution {
 
         return safe;
     }
-}
+}*/
+
+import java.util.*;
+
+class Solution {
+    int state[];
+    boolean dfs(int node,int[][] graph){
+        if(state[node]==1) return false;
+        if(state[node]==2) return true;
+        state[node]=1;
+         for (int nei : graph[node]) {
+            if (!dfs(nei, graph)) return false;
+        }
+
+        state[node] = 2; // completely processed
+        return true;
+    
+    }
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+        int n=graph.length;
+        state=new int[n];
+       List<Integer> answer = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            if (dfs(i, graph)) {
+                answer.add(i);
+            }
+        }
+
+        return answer;
+    }}
