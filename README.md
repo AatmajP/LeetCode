@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AatmajP/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/AatmajP/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AatmajP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/AatmajP/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/AatmajP/LeetCode/tree/master/0393-utf-8-validation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AatmajP/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/AatmajP/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AatmajP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0778-swim-in-rising-water](https://github.com/AatmajP/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/AatmajP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AatmajP/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AatmajP/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AatmajP/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AatmajP/LeetCode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/AatmajP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/AatmajP/LeetCode/tree/master/0556-next-greater-element-iii) |
 ## Greedy
 |  |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AatmajP/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AatmajP/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AatmajP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/AatmajP/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/AatmajP/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AatmajP/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -698,4 +702,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AatmajP/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AatmajP/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AatmajP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
