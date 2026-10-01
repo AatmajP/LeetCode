@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AatmajP/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AatmajP/LeetCode/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/AatmajP/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AatmajP/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/AatmajP/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AatmajP/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/AatmajP/LeetCode/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/AatmajP/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/AatmajP/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/AatmajP/LeetCode/tree/master/0399-evaluate-division) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AatmajP/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AatmajP/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AatmajP/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
