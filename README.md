@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AatmajP/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/AatmajP/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AatmajP/LeetCode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/AatmajP/LeetCode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AatmajP/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/AatmajP/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AatmajP/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
