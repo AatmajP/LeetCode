@@ -2,4 +2,5 @@
 select actor_id,director_id
 from ActorDirector
 GROUP BY actor_id, director_id
-having count(actor_id)>=3 and count(director_id)>=3
+#having count(actor_id)>=3 and count(director_id)>=3
+having count(*)>=3
