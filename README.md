@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/AatmajP/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/AatmajP/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/AatmajP/LeetCode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/AatmajP/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AatmajP/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/AatmajP/LeetCode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/AatmajP/LeetCode/tree/master/0627-swap-sex-of-employees) |
