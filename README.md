@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AatmajP/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AatmajP/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AatmajP/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/AatmajP/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AatmajP/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Recursion
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/AatmajP/LeetCode/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/AatmajP/LeetCode/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/AatmajP/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AatmajP/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/AatmajP/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/AatmajP/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/AatmajP/LeetCode/tree/master/0542-01-matrix) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AatmajP/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AatmajP/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AatmajP/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AatmajP/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/AatmajP/LeetCode/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
