@@ -84,6 +84,8 @@ import java.util.*;
     }
 }*/
 
+
+// p-rims algorithm
 class Solution {
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
