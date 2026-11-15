@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+/*class Solution {
 
     int[] parent;
 
@@ -76,6 +76,48 @@ class Solution {
                 // MST has n - 1 edges
                 if (edgesUsed == n - 1) {
                     break;
+                }
+            }
+        }
+
+        return totalCost;
+    }
+}*/
+
+class Solution {
+    public int minCostConnectPoints(int[][] points) {
+        int n = points.length;
+
+        boolean[] visited = new boolean[n];
+
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> Integer.compare(a[0], b[0])
+        );
+
+        pq.add(new int[]{0, 0});
+
+        int totalCost = 0;
+        int count = 0;
+
+        while (count < n) {
+            int[] curr = pq.poll();
+
+            int cost = curr[0];
+            int node = curr[1];
+
+            if (visited[node]) continue;
+
+            visited[node] = true;
+            count++;
+            totalCost += cost;
+
+            for (int i = 0; i < n; i++) {
+                if (!visited[i]) {
+                    int distance =
+                        Math.abs(points[node][0] - points[i][0]) +
+                        Math.abs(points[node][1] - points[i][1]);
+
+                    pq.add(new int[]{distance, i});
                 }
             }
         }
